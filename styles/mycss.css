@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+
 
 
 body{
     font-family: Michroma, serif;
     background: linear-gradient(90deg, #002aff 0%, #15151b 90%);
-
+flex-direction: row;
 }
 p{
     color: aqua;
